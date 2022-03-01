@@ -1,0 +1,20 @@
+.btn-blue{
+	background-color: saddlebrown ;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.btn-blue:hover{
+	color: saddlebrown;
+	background-color: white;
+
+}
+
+a{
+	text-decoration: none;
+}

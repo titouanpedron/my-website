@@ -1,0 +1,20 @@
+@import url('components/container.css');
+@import url('components/banner.css');
+@import url('components/card.css');
+@import url('components/button.css');
+
+body {
+	margin: 0;
+	font-family: 'Lora', serif;
+	background-color: green;
+	color: white;
+}
+
+a{
+	font-family: 'Great Vibes',cursive;
+	text-decoration: none;
+	text-align: center;
+}
+img{
+	width: 700px;
+}
